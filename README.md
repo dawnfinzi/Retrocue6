@@ -9,6 +9,10 @@ Wagner, J., Wessel, J., Gharemahni, A. & Aron, A.R. 2017, Establishing a right f
 For more details on data and the paradigm please refer to the manuscript (Finzi, Wagner, Itthipuripat & Aron, submitted) when available or contact me at: rebecca.d.finzi@gmail.com. Additional information and the behavioral/EEG data is available [on OSF](https://osf.io/h96ny/).
 
 
+## Dependencies
+This analysis pipeline requires eeglab (version 13_6_5b) which can be downloaded from the [EEGLAB website](ftp://sccn.ucsd.edu/pub/daily/).
+
+
 ## Scripts/analysis stream
 ### Overall
 1. **preproc.m**
