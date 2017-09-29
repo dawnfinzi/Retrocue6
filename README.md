@@ -10,7 +10,7 @@ For more details on data and the paradigm please refer to the manuscript (Finzi,
 
 
 ## Dependencies
-This analysis pipeline requires eeglab (version 13_6_5b) which can be downloaded from the [EEGLAB website](ftp://sccn.ucsd.edu/pub/daily/).
+This analysis pipeline requires eeglab (version 13_6_5b) which can be downloaded from the [EEGLAB website](https://sccn.ucsd.edu/eeglab/index.php).
 
 
 ## Scripts/analysis stream
