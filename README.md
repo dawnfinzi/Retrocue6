@@ -1,12 +1,12 @@
 # Retrocue6
 
 This directory contains the analysis scripts accompanying the manuscript:
-Finzi, Wagner, Itthipuripat & Aron, 2017, Stopping cognition: unexpected events recruit prefrontal inhibitory control and interrupt working memory (submitted)
+Finzi, Wagner, Itthipuripat & Aron, 2017, Stopping cognition: unexpected events recruit prefrontal inhibitory control and interrupt working memory (in prep)
 
 Analysis and scripts adapted from:
 Wagner, J., Wessel, J., Gharemahni, A. & Aron, A.R. 2017, Establishing a right frontal beta signature for stopping action in scalp EEG: implications for testing inhibitory control in other task contexts.
 
-For more details on data and the paradigm please refer to the manuscript (Finzi, Wagner, Itthipuripat & Aron, submitted) when available or contact me at: rebecca.d.finzi@gmail.com. Additional information and the behavioral/EEG data is available [on OSF](https://osf.io/h96ny/).
+For more details on data and the paradigm please refer to the manuscript (Finzi, Wagner, Itthipuripat & Aron, in prep) when available or contact me at: rebecca.d.finzi@gmail.com. Additional information and the behavioral/EEG data is available [on OSF](https://osf.io/h96ny/).
 
 
 ## Dependencies
